@@ -2,9 +2,9 @@
     "name" : "WPBakery Visual Composer čeština",
     "slug" : "wpbakery-visual-composer-cestina",
     "homepage" : "http://expres-web.cz",
-    "download_url" : "https://github.com/expres-web/wpbakery-visual-composer-cestina/releases/download/1.0/wpbakery-visual-composer-cestina.zip",
+    "download_url" : "https://github.com/expres-web/wpbakery-visual-composer-cestina/releases/download/1.1/wpbakery-visual-composer-cestina.zip",
     
-    "version" : "1.0",
+    "version" : "1.1",
     "requires" : "3.2",
     "tested" : "4.2",
     "last_updated" : "2015-04-11 15:45:12",
